@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qlKKNpzjUAp1HgO7Rii3KisRuMlCaJWdoH/CLlBUdQ0=",
+  "Source": "FileApload-FluentValidation",
+  "BasePath": "_content/FileApload-FluentValidation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileApload-FluentValidation\\wwwroot",
+      "Source": "FileApload-FluentValidation",
+      "ContentRoot": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\",
+      "BasePath": "_content/FileApload-FluentValidation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
