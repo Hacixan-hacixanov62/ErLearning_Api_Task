@@ -1,4 +1,5 @@
 ﻿using FileApload_FluentValidation.DTOs.Abouts;
+using FileApload_FluentValidation.DTOs.Category;
 using FileApload_FluentValidation.DTOs.Informations;
 using FileApload_FluentValidation.DTOs.Sliders;
 using FileApload_FluentValidation.Helpers;
@@ -37,6 +38,11 @@ namespace FileApload_FluentValidation.Injections
             services.AddScoped<IAboutService, AboutService>();
 
             services.AddScoped<IValidator<AboutCreateDTo>, AboutCreateDToValidator>();
+
+            //Category
+            services.AddScoped<ICategoryService, CategoryService>();
+
+            services.AddScoped<IValidator<CategoryCreateDTO>, CategoryCreateDTOValidator>();
 
 
             return services;

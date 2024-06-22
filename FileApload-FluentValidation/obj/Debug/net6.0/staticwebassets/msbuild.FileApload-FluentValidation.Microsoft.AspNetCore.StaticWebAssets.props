@@ -1,5 +1,21 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\4274dab7-288d-46a1-8d46-077fc43faab5-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FileApload-FluentValidation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FileApload-FluentValidation</BasePath>
+      <RelativePath>img/4274dab7-288d-46a1-8d46-077fc43faab5-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\4274dab7-288d-46a1-8d46-077fc43faab5-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\4c6ed5c4-0d5f-4d1e-b632-6e9e484055a9-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>FileApload-FluentValidation</SourceId>

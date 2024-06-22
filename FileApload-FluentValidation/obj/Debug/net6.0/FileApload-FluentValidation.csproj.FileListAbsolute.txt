@@ -1,5 +1,6 @@
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\appsettings.Development.json
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\appsettings.json
+C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\FileApload-FluentValidation.staticwebassets.runtime.json
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\FileApload-FluentValidation.exe
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\FileApload-FluentValidation.deps.json
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\FileApload-FluentValidation.runtimeconfig.json
@@ -26,6 +27,7 @@ C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -56,6 +58,7 @@ C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\FileApload-FluentValidation.csproj.CoreCompileInputs.cache
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\FileApload-FluentValidation.MvcApplicationPartsAssemblyInfo.cs
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\FileApload-FluentValidation.MvcApplicationPartsAssemblyInfo.cache
+C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\FileApload-FluentValidation.sourcelink.json
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\staticwebassets.build.json
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\staticwebassets.development.json
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\staticwebassets\msbuild.FileApload-FluentValidation.Microsoft.AspNetCore.StaticWebAssets.props
@@ -70,6 +73,3 @@ C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\FileApload-FluentValidation.pdb
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\FileApload-FluentValidation.genruntimeconfig.cache
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\ref\FileApload-FluentValidation.dll
-C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\FileApload-FluentValidation.staticwebassets.runtime.json
-C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
-C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\FileApload-FluentValidation.sourcelink.json

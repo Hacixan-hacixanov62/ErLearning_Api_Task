@@ -7,5 +7,6 @@ namespace FileApload_FluentValidation.Controllers
     [ApiController]
     public class BaseController : ControllerBase
     {
+
     }
 }

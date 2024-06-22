@@ -10,6 +10,7 @@ namespace FileApload_FluentValidation.Data
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Information> Informations { get; set; }
         public DbSet<About> Abouts { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
