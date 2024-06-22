@@ -29,7 +29,7 @@ namespace FileApload_FluentValidation.Services
         {
             string fileName = $"{Guid.NewGuid()}-{data.UploadImage.FileName}";
 
-            string path = Path.Combine(_env.WebRootPath, "images", fileName);
+            string path = Path.Combine(_env.WebRootPath, "img", fileName);
 
             using(FileStream stream = new(path, FileMode.Create))
             {
@@ -47,7 +47,7 @@ namespace FileApload_FluentValidation.Services
         public async Task DeleteAsync(int id)
         {
             var existSlider = await _context.Sliders.FindAsync(id);
-            string path = Path.Combine(_env.WebRootPath, "images", existSlider.Image);
+            string path = Path.Combine(_env.WebRootPath, "img", existSlider.Image);
 
             if(File.Exists(path))
                 File.Delete(path);
@@ -56,17 +56,18 @@ namespace FileApload_FluentValidation.Services
             await _context.SaveChangesAsync();
         }
 
+
         public async Task EditAsync(int id, SliderEditDTo data)
         {
             var existSlider = await _context.Sliders.FindAsync(id);
             if(data.UploadImage is not null)
             {
-                string oldPath = Path.Combine(_env.WebRootPath, "images", existSlider.Image);
+                string oldPath = Path.Combine(_env.WebRootPath, "img", existSlider.Image);
                  if(File.Exists(oldPath))
                     File.Delete(oldPath);
 
                 string fileName = Guid.NewGuid().ToString() + "-" + data.UploadImage.FileName;
-                string newPath = Path.Combine(_env.WebRootPath, "images", fileName);
+                string newPath = Path.Combine(_env.WebRootPath, "img", fileName);
 
                 using (FileStream stream = new(newPath, FileMode.Create))
                 {

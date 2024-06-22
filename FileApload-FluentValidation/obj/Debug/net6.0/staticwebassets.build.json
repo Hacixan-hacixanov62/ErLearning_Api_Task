@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qlKKNpzjUAp1HgO7Rii3KisRuMlCaJWdoH/CLlBUdQ0=",
+  "Hash": "uDniq+PFMhFSiNsnwGH5Vm6WVW4MPin+R/AhswlUwL8=",
   "Source": "FileApload-FluentValidation",
   "BasePath": "_content/FileApload-FluentValidation",
   "Mode": "Default",
@@ -15,5 +15,63 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\img\\4c6ed5c4-0d5f-4d1e-b632-6e9e484055a9-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg",
+      "SourceId": "FileApload-FluentValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\",
+      "BasePath": "_content/FileApload-FluentValidation",
+      "RelativePath": "img/4c6ed5c4-0d5f-4d1e-b632-6e9e484055a9-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4c6ed5c4-0d5f-4d1e-b632-6e9e484055a9-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg"
+    },
+    {
+      "Identity": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\img\\601e2ae5-0b4a-4644-8c02-d5daa29c2fe3-0b079868-5751-4b96-aa51-5aa5753b2d22-team-1.jpg",
+      "SourceId": "FileApload-FluentValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\",
+      "BasePath": "_content/FileApload-FluentValidation",
+      "RelativePath": "img/601e2ae5-0b4a-4644-8c02-d5daa29c2fe3-0b079868-5751-4b96-aa51-5aa5753b2d22-team-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\601e2ae5-0b4a-4644-8c02-d5daa29c2fe3-0b079868-5751-4b96-aa51-5aa5753b2d22-team-1.jpg"
+    },
+    {
+      "Identity": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\img\\a0bf04c5-bd55-4110-8ec9-ff71e4c405a5-42c77ebd-3ebd-44e8-99fa-4d260a351d2a-02.jpg",
+      "SourceId": "FileApload-FluentValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\",
+      "BasePath": "_content/FileApload-FluentValidation",
+      "RelativePath": "img/a0bf04c5-bd55-4110-8ec9-ff71e4c405a5-42c77ebd-3ebd-44e8-99fa-4d260a351d2a-02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a0bf04c5-bd55-4110-8ec9-ff71e4c405a5-42c77ebd-3ebd-44e8-99fa-4d260a351d2a-02.jpg"
+    }
+  ]
 }

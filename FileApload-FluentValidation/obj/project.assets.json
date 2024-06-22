@@ -18,7 +18,7 @@
           }
         }
       },
-      "FluentValidation/11.9.2": {
+      "FluentValidation/11.9.0": {
         "type": "package",
         "compile": {
           "lib/net6.0/FluentValidation.dll": {
@@ -51,10 +51,10 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "FluentValidation.DependencyInjectionExtensions/11.9.2": {
+      "FluentValidation.DependencyInjectionExtensions/11.9.0": {
         "type": "package",
         "dependencies": {
-          "FluentValidation": "11.9.2",
+          "FluentValidation": "11.9.0",
           "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
         },
         "compile": {
@@ -970,16 +970,16 @@
         "lib/net6.0/AutoMapper.xml"
       ]
     },
-    "FluentValidation/11.9.2": {
-      "sha512": "XeHp9LvFvu1fsQ/NvDCymV02GOCB1nz7ZUhfpI3uMhCcHTkV1K5bMkv+Nc/kuNYyAsX5+5bcmUanIEMd5QN+Eg==",
+    "FluentValidation/11.9.0": {
+      "sha512": "VneVlTvwYDkfHV5av3QrQ0amALgrLX6LV94wlYyEsh0B/klJBW7C8y2eAtj5tOZ3jH6CAVpr4s1ZGgew/QWyig==",
       "type": "package",
-      "path": "fluentvalidation/11.9.2",
+      "path": "fluentvalidation/11.9.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.11.9.2.nupkg.sha512",
+        "fluentvalidation.11.9.0.nupkg.sha512",
         "fluentvalidation.nuspec",
         "lib/net5.0/FluentValidation.dll",
         "lib/net5.0/FluentValidation.xml",
@@ -1014,16 +1014,16 @@
         "lib/netcoreapp3.1/FluentValidation.AspNetCore.xml"
       ]
     },
-    "FluentValidation.DependencyInjectionExtensions/11.9.2": {
-      "sha512": "PMAdnR1fX1c8DyUvu5YvRa0V0JHES8vzXnVX0OSS3z9W/SkuHqcGrtiSOdW1QehG3vZhXsKhqf3wgDzW/OYahA==",
+    "FluentValidation.DependencyInjectionExtensions/11.9.0": {
+      "sha512": "Ko++xvN7HUf4WlHJL6bhsybUj/uho8ApOYIdxGjpF8Ot7Fukz6LRfRJ06H0KXhWqmMHWEbu89hJbjKJHtg7b9g==",
       "type": "package",
-      "path": "fluentvalidation.dependencyinjectionextensions/11.9.2",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.9.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
         "fluentvalidation.dependencyinjectionextensions.nuspec",
         "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
         "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
@@ -2628,7 +2628,7 @@
     "net6.0": [
       "AutoMapper >= 13.0.1",
       "FluentValidation.AspNetCore >= 11.3.0",
-      "FluentValidation.DependencyInjectionExtensions >= 11.9.2",
+      "FluentValidation.DependencyInjectionExtensions >= 11.9.0",
       "Microsoft.EntityFrameworkCore >= 6.0.31",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.31",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.31",
@@ -2691,7 +2691,7 @@
           },
           "FluentValidation.DependencyInjectionExtensions": {
             "target": "Package",
-            "version": "[11.9.2, )"
+            "version": "[11.9.0, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",

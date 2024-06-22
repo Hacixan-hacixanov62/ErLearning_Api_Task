@@ -4,6 +4,10 @@ using FileApload_FluentValidation.Services.Interface;
 using FileApload_FluentValidation.Services;
 using Microsoft.EntityFrameworkCore;
 using System;
+using FluentValidation;
+using FileApload_FluentValidation.DTOs.Sliders;
+using FluentValidation.AspNetCore;
+using FileApload_FluentValidation.Injections;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,14 +26,11 @@ builder.Services.AddDbContext<AppDbContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
 
-builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
-
 //builder.Services.AddControllers().AddJsonOptions(x =>
 //    x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
 
-builder.Services.AddScoped<ISliderService, SliderService>();
 
-
+builder.Services.AddServices();
 
 var app = builder.Build();
 

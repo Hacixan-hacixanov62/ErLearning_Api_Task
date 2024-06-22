@@ -72,3 +72,4 @@ C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\ref\FileApload-FluentValidation.dll
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\FileApload-FluentValidation.staticwebassets.runtime.json
 C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\API (epiay)\FileApload-FluentValidation\FileApload-FluentValidation\obj\Debug\net6.0\FileApload-FluentValidation.sourcelink.json
