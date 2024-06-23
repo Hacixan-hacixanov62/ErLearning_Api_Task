@@ -1,6 +1,7 @@
 ﻿using FileApload_FluentValidation.DTOs.Abouts;
 using FileApload_FluentValidation.DTOs.Category;
 using FileApload_FluentValidation.DTOs.Informations;
+using FileApload_FluentValidation.DTOs.Instructors;
 using FileApload_FluentValidation.DTOs.Sliders;
 using FileApload_FluentValidation.Helpers;
 using FileApload_FluentValidation.Services;
@@ -9,6 +10,7 @@ using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal;
+using static FileApload_FluentValidation.DTOs.Instructors.InstructorCreateDTo;
 
 namespace FileApload_FluentValidation.Injections
 {
@@ -43,6 +45,11 @@ namespace FileApload_FluentValidation.Injections
             services.AddScoped<ICategoryService, CategoryService>();
 
             services.AddScoped<IValidator<CategoryCreateDTO>, CategoryCreateDTOValidator>();
+
+            //Instructor
+            services.AddScoped<IInstructorService, InstructorService>();
+
+            services.AddScoped<IValidator<InstructorCreateDTo>, InstuructorCreateDTOValidator>();
 
 
             return services;

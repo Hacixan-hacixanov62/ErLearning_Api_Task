@@ -2,6 +2,7 @@
 using FileApload_FluentValidation.DTOs.Abouts;
 using FileApload_FluentValidation.DTOs.Category;
 using FileApload_FluentValidation.DTOs.Informations;
+using FileApload_FluentValidation.DTOs.Instructors;
 using FileApload_FluentValidation.DTOs.Sliders;
 using FileApload_FluentValidation.Models;
 
@@ -44,6 +45,11 @@ namespace FileApload_FluentValidation.Helpers
             CreateMap<Category, CategoryDTO>();
             CreateMap<CategoryCreateDTO, Category>();
             CreateMap<CategoryEditDTO, Category>().ForMember(dest => dest.Image, opt => opt.Condition(src => (src.Image is null)));
+
+            //Instructor
+            CreateMap<Instructor, InstructorDTo> ();
+            CreateMap<InstructorCreateDTo, Instructor>();
+            CreateMap<InstructorEditDto, Instructor>().ForMember(dest => dest.Image, opt => opt.Condition(src => (src.Image is null)));
 
 
         }

@@ -11,6 +11,7 @@ namespace FileApload_FluentValidation.Data
         public DbSet<Information> Informations { get; set; }
         public DbSet<About> Abouts { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Instructor> Instructors { get; set; }
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 

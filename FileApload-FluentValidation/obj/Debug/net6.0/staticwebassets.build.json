@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PgCZ5lJ2W+lDl4IK9/H709vdFAd0FgdPMaUH1U5mr6Y=",
+  "Hash": "2GFwAkKSnC4BAgvOUz0QrdoHo3s0P1TVmtInGY/vM20=",
   "Source": "FileApload-FluentValidation",
   "BasePath": "_content/FileApload-FluentValidation",
   "Mode": "Default",
@@ -74,6 +74,44 @@
       "OriginalItemSpec": "wwwroot\\img\\601e2ae5-0b4a-4644-8c02-d5daa29c2fe3-0b079868-5751-4b96-aa51-5aa5753b2d22-team-1.jpg"
     },
     {
+      "Identity": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\img\\69b4e591-7d1f-4a33-83d2-3a428fdb2f18-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg",
+      "SourceId": "FileApload-FluentValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\",
+      "BasePath": "_content/FileApload-FluentValidation",
+      "RelativePath": "img/69b4e591-7d1f-4a33-83d2-3a428fdb2f18-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\69b4e591-7d1f-4a33-83d2-3a428fdb2f18-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg"
+    },
+    {
+      "Identity": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\img\\86ef6fe8-2dbb-455d-b7b2-d6b3e13e5453-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg",
+      "SourceId": "FileApload-FluentValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\",
+      "BasePath": "_content/FileApload-FluentValidation",
+      "RelativePath": "img/86ef6fe8-2dbb-455d-b7b2-d6b3e13e5453-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\86ef6fe8-2dbb-455d-b7b2-d6b3e13e5453-16e9a5c5-83ee-4472-a4d7-c9b97d527414-67300445-6161-4366-bc65-a6a19876d556-team-4.jpg"
+    },
+    {
       "Identity": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\img\\a0bf04c5-bd55-4110-8ec9-ff71e4c405a5-42c77ebd-3ebd-44e8-99fa-4d260a351d2a-02.jpg",
       "SourceId": "FileApload-FluentValidation",
       "SourceType": "Discovered",
@@ -91,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\a0bf04c5-bd55-4110-8ec9-ff71e4c405a5-42c77ebd-3ebd-44e8-99fa-4d260a351d2a-02.jpg"
+    },
+    {
+      "Identity": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\img\\e3301795-b69a-4a81-8221-d92c83a6c1fa-0b079868-5751-4b96-aa51-5aa5753b2d22-team-1.jpg",
+      "SourceId": "FileApload-FluentValidation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\API (epiay)\\FileApload-FluentValidation\\FileApload-FluentValidation\\wwwroot\\",
+      "BasePath": "_content/FileApload-FluentValidation",
+      "RelativePath": "img/e3301795-b69a-4a81-8221-d92c83a6c1fa-0b079868-5751-4b96-aa51-5aa5753b2d22-team-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\e3301795-b69a-4a81-8221-d92c83a6c1fa-0b079868-5751-4b96-aa51-5aa5753b2d22-team-1.jpg"
     }
   ]
 }
