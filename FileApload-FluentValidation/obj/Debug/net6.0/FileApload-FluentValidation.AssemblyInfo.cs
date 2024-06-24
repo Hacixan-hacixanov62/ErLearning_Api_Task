@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileApload-FluentValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32ef5b7550826d6affa543fef0645e92c95717f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d3e54ccfa56004c4be22236d289c9412efcea12")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileApload-FluentValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileApload-FluentValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
